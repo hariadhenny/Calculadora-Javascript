@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.calc{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    
+}
+
+button:hover{
+    background-color: rgb(147, 65, 224);
+    
+}
+
+.buttons{
+    color: rgb(2, 71, 38);
+    margin-top: 10px;
+    
